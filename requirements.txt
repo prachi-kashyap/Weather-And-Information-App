@@ -1,0 +1,13 @@
+flask
+boto3
+gunicorn
+requests
+geocoder
+google-cloud-datastore
+Werkzeug
+python-dotenv
+Flask-Classful
+openai==0.28
+googlemaps
+PyYAML
+
